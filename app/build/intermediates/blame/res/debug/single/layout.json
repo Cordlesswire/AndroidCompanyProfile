@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_product.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\src\\main\\res\\layout\\row_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_service.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\src\\main\\res\\layout\\row_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\service.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\src\\main\\res\\layout\\service.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\portfolio.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\src\\main\\res\\layout\\portfolio.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\companyapp.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\src\\main\\res\\layout\\companyapp.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\src\\main\\res\\layout\\contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\product.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\src\\main\\res\\layout\\product.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_service.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\src\\main\\res\\layout\\dialog_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_product.xml",
+        "source": "C:\\Users\\delaroystudios\\Desktop\\new android project\\playground-master\\playground-master\\android\\CompanyProfileApp1\\app\\src\\main\\res\\layout\\dialog_product.xml"
+    }
+]
